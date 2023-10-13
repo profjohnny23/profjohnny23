@@ -1,0 +1,3 @@
+- # 👋 Sou Professor Johnny
+- 👀 Leciono na EE Pedro Barros
+- ### 🌱 Componente Tecnologia e Inovação
